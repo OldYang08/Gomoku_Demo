@@ -1,0 +1,11 @@
+C:\soft_Self_Program\Gomoku_Demo\Gomoku_Demo\bin\Debug\Gomoku_Demo.exe.config
+C:\soft_Self_Program\Gomoku_Demo\Gomoku_Demo\bin\Debug\Gomoku_Demo.exe
+C:\soft_Self_Program\Gomoku_Demo\Gomoku_Demo\bin\Debug\Gomoku_Demo.pdb
+C:\soft_Self_Program\Gomoku_Demo\Gomoku_Demo\obj\Debug\Gomoku_Demo.csproj.AssemblyReference.cache
+C:\soft_Self_Program\Gomoku_Demo\Gomoku_Demo\obj\Debug\Gomoku_Demo.csproj.SuggestedBindingRedirects.cache
+C:\soft_Self_Program\Gomoku_Demo\Gomoku_Demo\obj\Debug\Gomoku_Demo.Properties.Resources.resources
+C:\soft_Self_Program\Gomoku_Demo\Gomoku_Demo\obj\Debug\Gomoku_Demo.csproj.GenerateResource.cache
+C:\soft_Self_Program\Gomoku_Demo\Gomoku_Demo\obj\Debug\Gomoku_Demo.csproj.CoreCompileInputs.cache
+C:\soft_Self_Program\Gomoku_Demo\Gomoku_Demo\obj\Debug\Gomoku_Demo.exe
+C:\soft_Self_Program\Gomoku_Demo\Gomoku_Demo\obj\Debug\Gomoku_Demo.pdb
+C:\soft_Self_Program\Gomoku_Demo\Gomoku_Demo\obj\Debug\Gomoku_Demo.Form1.resources
